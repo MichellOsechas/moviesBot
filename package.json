@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^1.6.2",
+    "better-sqlite3": "^9.1.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "get-image-colors": "^4.0.1",
+    "jimp": "^0.22.10"
+  },
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "deploy": "node deploy-commands.js",
+    "create-tables": "node ./database/createTables.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "nodemon": "^3.0.1"
+  }
+}
