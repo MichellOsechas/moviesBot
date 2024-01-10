@@ -5,19 +5,19 @@ The Discord bot will run on your local machine.
 ### Features
 #### Scholar Commands
 
-`/ayuda : Una breve explicacion de como funciona el bot.
+`/ayuda` : Una breve explicacion de como funciona el bot.
 
 ![image](https://github.com/MichellOsechas/moviesBot/assets/90647320/eb9a6e47-08af-4d03-af51-ba449aee33ce)
 
-`/buscar-peliculas: Search for information about the movie you want. This command returns a brief description of the movie, its genre, the actors, etc.
+`/buscar-peliculas` : Search for information about the movie you want. This command returns a brief description of the movie, its genre, the actors, etc.
 
 ![image](https://github.com/MichellOsechas/moviesBot/assets/90647320/482a75f3-dd4e-4001-8c60-d08d9cf539a9)
 
-`/peliculas-favoritas: Save your favorite movies. This command allows you to save your favorite movies with only the title, to have access to them whenever you want.
+`/peliculas-favoritas`: Save your favorite movies. This command allows you to save your favorite movies with only the title, to have access to them whenever you want.
 
 ![image](https://github.com/MichellOsechas/moviesBot/assets/90647320/f4c92c6f-fad9-4463-b634-c8488438e0df)
 
-`/obtener-peliculas: Get your favorite movies. This command allows you to access all the favorite movies you have saved.
+`/obtener-peliculas` : Get your favorite movies. This command allows you to access all the favorite movies you have saved.
 
 ![image](https://github.com/MichellOsechas/moviesBot/assets/90647320/d0ed676a-a1ec-44ed-81d1-fb49ecfbd1d8)
 
